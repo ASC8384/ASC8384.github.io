@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tao Sun"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hello, World!"
+  bio              : "Beihang University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/ASC_8384"
+  zhihu            : "ASC_8384"
 
 
 # Reading Files
