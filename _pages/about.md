@@ -19,14 +19,14 @@ redirect_from:
 
 Hello All! My name is Tao Sun.
 
-I am a first year Masters student at Beihang University in School of Computer Science and Engineering, working with Dr.Jian Yang and Prof.Zhoujun Li.
+I am a first-year master's student at Beihang University in the School of Computer Science and Engineering, working with Dr.Jian Yang and Prof.Zhoujun Li.
 
-My research is centered around Natural Language Processing (NLP), specifically emphasizing large language models (LLM). I am particularly fascinated by the potential of these models and their application in advancing the field of Artificial General Intelligence (AGI). Currently, I am doing some intersting research work to explore the following several areas:
+My research centres on Natural Language Processing (NLP), specifically emphasizing large language models (LLM). I am particularly fascinated by the potential of these models and their application in advancing the field of Artificial General Intelligence (AGI). Currently, I am doing some interesting research work to explore the following areas:
 
-* Code LLM
-* Agent
+- **Code LLM**: My research in this area focuses on the integration of executable code with LLMs or large multimodal models. The ultimate goal is to transform LLMs into compilers of natural language, enabling them to execute specific tasks through code or agents.
+- **Code Self-Evolution**: I am exploring the potential for code to self-evolve using LLM. The ultimate aim is to enable software systems to autonomously update, optimize, and repair themselves without human intervention, thereby enhancing the efficiency and sustainability of software maintenance and development.
 
-Looking ahead, I am actively seeking a Summer Internship for 2024 and a Ph.D. position in the field of NLP/LLM, starting in the Fall of 2026. If you share an interest in my research or are open to potential collaboration, please do not hesitate to reach out to me.
+Looking ahead, I am actively seeking a Summer Internship for 2024 and a Ph.D. position in the field of NLP/LLM, starting in the Fall of 2026. If you are interested in my research or are open to potential collaboration, please feel free to let me know.
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -66,4 +66,9 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.03 — Now*, [Lorem](https://github.com/), China.
+  - Position: Research Intern (Full-time, Onsite, Paid)
+  - Duty: Conducted research and testing on Meituan's in-house large-scale models, primarily focusing on enhancing the code expert model's capabilities in code repository-level completion and repair. Explored the application of large models in the field of software engineering, including their abilities in handling long texts and code planning and testing.
+- *2022.10 — 2023.05*, [Shenzhen Intelligent Strong](http://www.ai-strong.com/), Shenzhen, China.
+  - Position: Research Intern (Full-time, Onsite, Paid)
+  - Duty: Conducted a financial Named Entity Recognition project from dataset construction to model optimization and deployment, achieving a 10.09% increase in F1.
