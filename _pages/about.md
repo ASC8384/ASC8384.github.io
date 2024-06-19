@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello All! My name is Tao Sun.
+<!--Hello All! My name is Tao Sun.-->
 
 I am a first-year master's student at Beihang University in the School of Computer Science and Engineering, working with [Dr. Jian Yang](https://scholar.google.com/citations?user=i9opWEgAAAAJ) and [Prof. Zhoujun Li](https://scholar.google.com/citations?user=e-4LoEcAAAAJ).
 
@@ -30,7 +30,7 @@ Looking ahead, I am actively seeking a Summer Internship for 2024 and a Ph.D. po
 
 <!--[CV](assets/pdf/Resume_ST.pdf) / [中文简历](assets/pdf/CV_ST_ZH.pdf)-->
 
-<a href='./assets/pdf/Resume_ST.pdf'><img src="https://img.shields.io/badge/-Tao's Resumé-?logo=gitbook&logoColor=white"></a> / <a href='./assets/pdf/CV_ST_ZH'><img src="https://img.shields.io/badge/-%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86-%3Flogo%3Dgitbook%26logoColor%3Dwhite
+<a href='./assets/pdf/Resume_ST.pdf'><img src="https://img.shields.io/badge/-Sun's%20Resum%C3%A9-299DE7?logo=gitbook&logoColor=white"></a> / <a href='./assets/pdf/CV_ST_ZH'><img src="https://img.shields.io/badge/-%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86-%3Flogo%3Dgitbook%26logoColor%3Dwhite
 "></a>
 
 <!--
