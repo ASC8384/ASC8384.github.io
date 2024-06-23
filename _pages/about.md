@@ -3,15 +3,15 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "<https://cdn.jsdelivr.net/gh/>" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "<https://raw.githubusercontent.com/>" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
@@ -30,14 +30,14 @@ Looking ahead, I am actively seeking a Summer Internship for 2024 and a Ph.D. po
 
 <!--[CV](assets/pdf/Resume_ST.pdf) / [中文简历](assets/pdf/CV_ST_ZH.pdf)-->
 
-<a href='./assets/pdf/Resume_ST.pdf'><img src="https://img.shields.io/badge/-Sun's%20Resum%C3%A9-299DE7?logo=gitbook&logoColor=white"></a> / <a href='./assets/pdf/CV_ST_ZH'><img src="https://img.shields.io/badge/-%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86-%3Flogo%3Dgitbook%26logoColor%3Dwhite
-"></a>
+<a href='./assets/pdf/Resume_ST.pdf'><img src="https://img.shields.io/badge/-Sun's%20Resum%C3%A9-299DE7?logo=gitbook&logoColor=white"></a> / <a href='./assets/pdf/CV_ST_ZH.pdf'><img src="https://img.shields.io/badge/-%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86%EF%BC%88Chinese%20CV%EF%BC%89-%3Flogo%3Dgitbook%26logoColor%3Dwhite"></a>
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
 # 🔥 News
+
 - *2024.05*: &nbsp;🎉🎉 **UniCoder** paper is accepted by ACL 2024.
 <!-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
@@ -51,16 +51,15 @@ My research interest includes neural machine translation and computer vision. I 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 </div>
 </div>
 -->
 
-
 <div class='paper-box-text' markdown="1">
 <strong><font color="#374798">UniCoder: Scaling Code Large Language Model via Universal Code.</font></strong>\\
 **Tao Sun\***, Linzheng Chai\*, Jian Yang\*, Yuwei Yin, Hongcheng Guo, Jiaheng Liu, Bing Wang, Liqun Yang, Zhoujun Li, (*=equal contribution). \\
-**ACL 2024 Main Conference** 
+**ACL 2024 Main Conference**
 </div><br>
 
 <div class='paper-box-text' markdown="1">
@@ -105,10 +104,10 @@ Xianfu Cheng\*, Hang Zhang\*, Jian Yang, Xiang Li, Weixiao Zhou, Kui Wu, Fei Liu
 **arXiv 2405.17336**
 </div><br>
 
-
 <!-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
 # 🎖 Honors and Awards
+
 - *2021* Pacemaker to Merit Student (Awarded by Xiangtan University, Top 2‰ in School)
 - *2022* The Jingdong Scholarship (Awarded by Jingdong Inc.)
 - *2022* The First Prize Scholarship (Awarded by Xiangtan University, Top 7% in School)
@@ -124,11 +123,12 @@ Xianfu Cheng\*, Hang Zhang\*, Jian Yang, Xiang Li, Weixiao Zhou, Kui Wu, Fei Liu
 
 <!--
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
 # 💻 Internships
+
 - *2024.03 — Now*, [Meituan Inc.](https://www.meituan.com/en-US/about-us), China.
   - Position: Research Intern (Full-time, Onsite, Paid)
   - Duty: Conducted research and testing on Meituan's in-house large-scale models, primarily focusing on enhancing the code expert model's capabilities in code repository-level completion and repair. Explored the application of large models in the field of software engineering, including their abilities in handling long texts and code planning and testing.
