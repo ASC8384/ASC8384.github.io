@@ -110,7 +110,7 @@ Xianfu Cheng\*, Hang Zhang\*, Jian Yang, Xiang Li, Weixiao Zhou, Kui Wu, Fei Liu
 
 - *2021* Pacemaker to Merit Student (Awarded by Xiangtan University, Top 2‰ in School)
 - *2022* The Jingdong Scholarship (Awarded by Jingdong Inc.)
-- *2022* The First Prize Scholarship (Awarded by Xiangtan University, Top 7% in School)
+- *2020 & 2021 & 2022* The First Prize Scholarship (Awarded by Xiangtan University, Top 7% in School)
 - *2021.10* Bronze Medal of 2021 ICPC Asia Regional Contest (Awarded by [ICPC Foundation](https://icpc.foundation))
 - *2021.06* Silver Medal of 2021 CCPC National Invitational Contest (Awarded by [Committee for CCPC](https://ccpc.io/))
 - *2021.11* Bronze Medal of 2021 CCPC Guilin Site Contest (Awarded by [Committee for CCPC](https://ccpc.io/))
