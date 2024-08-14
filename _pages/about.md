@@ -60,6 +60,12 @@ My research interest includes neural machine translation and computer vision. I 
 <strong><font color="#374798">UniCoder: Scaling Code Large Language Model via Universal Code.</font></strong>\\
 **Tao Sun\***, Linzheng Chai\*, Jian Yang\*, Yuwei Yin, Hongcheng Guo, Jiaheng Liu, Bing Wang, Liqun Yang, Zhoujun Li, (*=equal contribution). \\
 **ACL 2024 Main Conference** | **arXiv 2406.16441**
+</div><be>
+
+<div class='paper-box-text' markdown="1">
+<strong><font color="#374798">SVIPTR: Fast and Efficient Scene Text Recognition with Vision Permutable Extractor.</font></strong>\\
+Xianfu Cheng, Weixiao Zhou, Xiang Li, Jian Yang, Hang Zhang, **Tao Sun**, Wei Zhang, Yuying Mai, Tongliang Li, Xiaoming Chen, Zhoujun Li. \\
+**CIKM 2024**
 </div><br>
 
 <div class='paper-box-text' markdown="1">
@@ -90,12 +96,6 @@ Jiaheng Liu\*, Zehao Ni\*, Haoran Que\*, **Tao Sun**, Zekun Wang, Jian Yang, Jia
 <strong><font color="#374798">REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models.</font></strong>\\
 Yinghao Zhu\*, Changyu Ren\*, Shiyun Xie, Shukai Liu, Hangyuan Ji, Zixiang Wang, **Tao Sun**, Long He, Zhoujun Li, Xi Zhu, Chengwei Pan, (*=equal contribution). \\
 **arXiv 2402.07016**
-</div><br>
-
-<div class='paper-box-text' markdown="1">
-<strong><font color="#374798">SVIPTR: Fast and Efficient Scene Text Recognition with Vision Permutable Extractor.</font></strong>\\
-Xianfu Cheng, Weixiao Zhou, Xiang Li, Jian Yang, Hang Zhang, **Tao Sun**, Wei Zhang, Yuying Mai, Tongliang Li, Xiaoming Chen, Zhoujun Li. \\
-**Under Review**
 </div><br>
 
 <div class='paper-box-text' markdown="1">
