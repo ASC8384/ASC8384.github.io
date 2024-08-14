@@ -26,7 +26,7 @@ My research centres on Natural Language Processing (NLP), specifically emphasizi
 - **Code LLM**: My research focuses on integrating executable code with LLMs or large multimodal models. The ultimate goal is to transform LLMs into compilers of natural language, enabling them to execute specific tasks through code or agents.
 - **Code Self-Evolution**: I am exploring the potential for code to self-evolve using LLM. The ultimate aim is to enable software systems to autonomously update, optimize, and repair themselves without human intervention, thereby enhancing the efficiency and sustainability of software maintenance and development.
 
-Looking ahead, I am actively seeking a Summer Internship for 2024 and a Ph.D. position in the field of NLP/LLM, starting in the Fall of 2026. If you are interested in my research or are open to potential collaboration, please feel free to let me know.
+Looking ahead, I am actively seeking a Research Assistant for 2024 and a Ph.D. position in the field of NLP/LLM, starting in the Fall of 2026. If you are interested in my research or are open to potential collaboration, please feel free to let me know.
 
 <!--[CV](assets/pdf/Resume_ST.pdf) / [中文简历](assets/pdf/CV_ST_ZH.pdf)-->
 
