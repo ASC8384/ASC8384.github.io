@@ -60,7 +60,7 @@ My research interest includes neural machine translation and computer vision. I 
 <strong><font color="#374798">UniCoder: Scaling Code Large Language Model via Universal Code.</font></strong>\\
 **Tao Sun\***, Linzheng Chai\*, Jian Yang\*, Yuwei Yin, Hongcheng Guo, Jiaheng Liu, Bing Wang, Liqun Yang, Zhoujun Li, (*=equal contribution). \\
 **ACL 2024 Main Conference** | **arXiv 2406.16441**
-</div><be>
+</div><br>
 
 <div class='paper-box-text' markdown="1">
 <strong><font color="#374798">SVIPTR: Fast and Efficient Scene Text Recognition with Vision Permutable Extractor.</font></strong>\\
