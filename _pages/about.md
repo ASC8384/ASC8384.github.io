@@ -38,7 +38,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 
-- *2024.05*: &nbsp;🎉🎉 **UniCoder** paper is accepted by ACL 2024.
+- *2024.09*: &nbsp;🎉🎉 **RoleAgent** paper is accepted by **NIPS 2024**.
+- *2024.05*: &nbsp;🎉🎉 **UniCoder** paper is accepted by **ACL 2024**.
 <!-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications & Papers in Preparation
@@ -60,6 +61,13 @@ My research interest includes neural machine translation and computer vision. I 
 <strong><font color="#374798">UniCoder: Scaling Code Large Language Model via Universal Code.</font></strong>\\
 **Tao Sun\***, Linzheng Chai\*, Jian Yang\*, Yuwei Yin, Hongcheng Guo, Jiaheng Liu, Bing Wang, Liqun Yang, Zhoujun Li, (*=equal contribution). \\
 **ACL 2024 Main Conference** | **arXiv 2406.16441**
+</div><br>
+
+
+<div class='paper-box-text' markdown="1">
+<strong><font color="#374798">RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Script.</font></strong>\\
+Jiaheng Liu\*, Zehao Ni\*, Haoran Que\*, **Tao Sun**, Zekun Wang, Jian Yang, Jiakai Wang, Hongcheng Guo, Zhongyuan Peng, Ge Zhang, Jiayi Tian, Xingyuan Bu, Ke Xu, Wenge Rong, Junran Peng, Zhaoxiang Zhang, (*=equal contribution). \\
+**NIPS 2024 Poster**
 </div><br>
 
 <div class='paper-box-text' markdown="1">
@@ -86,11 +94,6 @@ Linzheng Chai, Jian Yang, **Tao Sun**, Hongcheng Guo, Jiaheng Liu, Bing Wang, Xi
 **arXiv 2401.07037**
 </div><br>
 
-<div class='paper-box-text' markdown="1">
-<strong><font color="#374798">RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Script.</font></strong>\\
-Jiaheng Liu\*, Zehao Ni\*, Haoran Que\*, **Tao Sun**, Zekun Wang, Jian Yang, Jiakai Wang, Hongcheng Guo, Zhongyuan Peng, Ge Zhang, Jiayi Tian, Xingyuan Bu, Ke Xu, Wenge Rong, Junran Peng, Zhaoxiang Zhang, (*=equal contribution). \\
-**Under Review**
-</div><br>
 
 <div class='paper-box-text' markdown="1">
 <strong><font color="#374798">REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models.</font></strong>\\
