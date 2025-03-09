@@ -38,6 +38,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 
+- *2025.01* : &nbsp;🎉🎉 **McEval** paper is accepted by **ICLR 2025**.
+- *2024.12* : &nbsp;🎉🎉 **XCoT** paper is accepted by **AAAI 2025**.
 - *2024.09*: &nbsp;🎉🎉 **RoleAgent** paper is accepted by **NIPS 2024**.
 - *2024.05*: &nbsp;🎉🎉 **UniCoder** paper is accepted by **ACL 2024**.
 <!-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
