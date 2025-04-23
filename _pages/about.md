@@ -32,7 +32,7 @@ Looking ahead, I am actively seeking a Ph.D. position in the field of NLP/SE/LLM
 
 <!-- a href='./assets/pdf/Resume_ST.pdf'><img src="https://img.shields.io/badge/-Sun's%20Resum%C3%A9-299DE7?logo=gitbook&logoColor=white"></a> / <a href='./assets/pdf/CV_ST_ZH.pdf'><img src="https://img.shields.io/badge/-%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86%EF%BC%88Chinese%20CV%EF%BC%89-%3Flogo%3Dgitbook%26logoColor%3Dwhite"></a-->
 
-<! a href='./assets/pdf/Resume_ST.pdf'><img src="https://img.shields.io/badge/-Sun's%20Resum%C3%A9-299DE7?logo=gitbook&logoColor=white"></a> / <a href='https://scholar.google.com/citations?user=c755LkMAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ASC8384/ASC8384.github.io@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='./assets/pdf/Resume_ST.pdf'><img src="https://img.shields.io/badge/-Sun's%20Resum%C3%A9-299DE7?logo=gitbook&logoColor=white"></a> / <a href='https://scholar.google.com/citations?user=c755LkMAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ASC8384/ASC8384.github.io@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 <!-- a href='https://scholar.google.com/citations?user=c755LkMAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ASC8384/ASC8384.github.io@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a-->
