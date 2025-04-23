@@ -19,20 +19,23 @@ redirect_from:
 
 <!--Hello All! My name is Tao Sun.-->
 
-I am a first-year master's student at Beihang University in the School of Computer Science and Engineering, working with [Dr. Jian Yang](https://scholar.google.com/citations?user=i9opWEgAAAAJ) and [Prof. Zhoujun Li](https://scholar.google.com/citations?user=e-4LoEcAAAAJ).
+I am a second-year master's student at Beihang University in the School of Computer Science and Engineering, working with [Dr. Jian Yang](https://scholar.google.com/citations?user=i9opWEgAAAAJ) and [Prof. Zhoujun Li](https://scholar.google.com/citations?user=e-4LoEcAAAAJ).
 
-My research centres on Natural Language Processing (NLP), specifically emphasizing large language models (LLM). I am particularly fascinated by the potential of these models and their application in advancing the field of Artificial General Intelligence (AGI). Currently, I am doing some interesting research work to explore the following areas:
+My research centres on Natural Language Processing (NLP) and Software Engineering (SE), specifically emphasizing large language models (LLM). I am particularly fascinated by the potential of these models and their application in advancing the field of Artificial General Intelligence (AGI). Currently, I am doing some interesting research work to explore the following areas:
 
 - **Code LLM**: My research focuses on integrating executable code with LLMs or large multimodal models. The ultimate goal is to transform LLMs into compilers of natural language, enabling them to execute specific tasks through code or agents.
 - **Code Self-Evolution**: I am exploring the potential for code to self-evolve using LLM. The ultimate aim is to enable software systems to autonomously update, optimize, and repair themselves without human intervention, thereby enhancing the efficiency and sustainability of software maintenance and development.
 
-Looking ahead, I am actively seeking a Research Assistant for 2024 and a Ph.D. position in the field of NLP/LLM, starting in the Fall of 2026. If you are interested in my research or are open to potential collaboration, please feel free to let me know.
+Looking ahead, I am actively seeking a Ph.D. position in the field of NLP/SE/LLM, starting in the Fall of 2026. If you are interested in my research or are open to potential collaboration, please feel free to let me know.
 
 <!--[CV](assets/pdf/Resume_ST.pdf) / [中文简历](assets/pdf/CV_ST_ZH.pdf)-->
 
 <!-- a href='./assets/pdf/Resume_ST.pdf'><img src="https://img.shields.io/badge/-Sun's%20Resum%C3%A9-299DE7?logo=gitbook&logoColor=white"></a> / <a href='./assets/pdf/CV_ST_ZH.pdf'><img src="https://img.shields.io/badge/-%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86%EF%BC%88Chinese%20CV%EF%BC%89-%3Flogo%3Dgitbook%26logoColor%3Dwhite"></a-->
 
-<a href='https://scholar.google.com/citations?user=c755LkMAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ASC8384/ASC8384.github.io@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<! a href='./assets/pdf/Resume_ST.pdf'><img src="https://img.shields.io/badge/-Sun's%20Resum%C3%A9-299DE7?logo=gitbook&logoColor=white"></a> / <a href='https://scholar.google.com/citations?user=c755LkMAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ASC8384/ASC8384.github.io@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+
+<!-- a href='https://scholar.google.com/citations?user=c755LkMAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ASC8384/ASC8384.github.io@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a-->
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -40,6 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 
+- *2025.04* : &nbsp;🎉🎉 **BitsAI-CR** paper is accepted by **FSE 2025**.
 - *2025.01* : &nbsp;🎉🎉 **McEval** paper is accepted by **ICLR 2025**.
 - *2024.12* : &nbsp;🎉🎉 **XCoT** paper is accepted by **AAAI 2025**.
 - *2024.09*: &nbsp;🎉🎉 **RoleAgent** paper is accepted by **NIPS 2024**.
@@ -62,9 +66,22 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 <div class='paper-box-text' markdown="1">
+<strong><font color="#374798">BitsAI-CR: Automated Code Review via LLM in Practice.</font></strong>\\
+**Tao Sun**, Jian Xu, Yuanpeng Li, Zhao Yan, Ge Zhang, Lintao Xie, Lu Geng, Zheng Wang, Yueyan Chen, Qin Lin, Wenbo Duan, Kaixin Sui. \\
+**FSE 2025 Industry Track** | **arXiv 2501.15134** | Posted by [Synced / 机器之心](https://mp.weixin.qq.com/s/39Kyl5VeYA1eh6LEupA-zA), [a Top AI media in China](https://www.jiqizhixin.com/articles/2025-02-03-4)
+</div><br>
+
+
+<div class='paper-box-text' markdown="1">
 <strong><font color="#374798">UniCoder: Scaling Code Large Language Model via Universal Code.</font></strong>\\
 **Tao Sun\***, Linzheng Chai\*, Jian Yang\*, Yuwei Yin, Hongcheng Guo, Jiaheng Liu, Bing Wang, Liqun Yang, Zhoujun Li, (*=equal contribution). \\
 **ACL 2024 Main Conference** | **arXiv 2406.16441**
+</div><br>
+
+<div class='paper-box-text' markdown="1">
+<strong><font color="#374798">BitsAI-P2P: Automated Paper-to-Poster Generation and Fine-Grained Benchmark</font></strong>\\
+**Tao Sun**, Enhao Pan, Zhengkai Yang, Kaixin Sui, Jiajun Shi, Xianfu Cheng, Ge Zhang, Wenhao Huang, Tongling Li, Jian Yang, Zhoujun Li. \\
+**ICLR 2025 Workshop, NIPS 2025 under review**
 </div><br>
 
 
@@ -113,8 +130,33 @@ Xianfu Cheng\*, Hang Zhang\*, Jian Yang, Xiang Li, Weixiao Zhou, Kui Wu, Fei Liu
 
 <!-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
+
+# 💻 Internships
+
+
+- *2024.09 — Present*, [ByteDance Inc.](https://www.bytedance.com/en/), Beijing, China.
+  - Position: Research Intern (Full-time, Onsite, Paid)
+  - Participated in development of the programming assistant for Cici (豆包编程助手), China's leading LLM application.
+  - Spearheaded the development of code intent recognition systems and code models for Cici (豆包).
+  - Involved in the construction of the internal Code Review system.
+
+- *2024.03 — Now*, [Meituan Inc.](https://www.meituan.com/en-US/about-us), China.
+  - Position: Research Intern (Full-time, Onsite, Paid)
+  - Duty: Conducted research and testing on Meituan's in-house large-scale models, primarily focusing on enhancing the code expert model's capabilities in code repository-level completion and repair. Explored the application of large models in the field of software engineering, including their abilities in handling long texts and code planning and testing.
+
+
+# 💻 Projects
+
+- **Collaborator**: [**Windrecorder (GitHub 3215 Stars)**](https://github.com/yuka-friends/Windrecorder) - A memory search app that records everything on your screen, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
+- **Owner**: [**myRime (GitHub 123 Stars)**](https://github.com/ASC8384/myRime) - A customized input method utilizing the Rime engine, suitable for use with Flypy Double Pinyin (Xiaohe Shuangpin), Luna Pinyin, iBus, Fcitx, Windows and MacOS.
+
+
 # 🎖 Honors and Awards
 
+
+- *2024* China National Scholarship
+- *2024* The First Prize Scholarship (Awarded by Beihang University)
+- *2023* The Second Prize Scholarship (Awarded by Beihang University)
 - *2021* Pacemaker to Merit Student (Awarded by Xiangtan University, Top 2‰ in School)
 - *2022* The Jingdong Scholarship (Awarded by Jingdong Inc.)
 - *2020 & 2021 & 2022* The First Prize Scholarship (Awarded by Xiangtan University, Top 7% in School)
@@ -134,11 +176,7 @@ Xianfu Cheng\*, Hang Zhang\*, Jian Yang, Xiang Li, Weixiao Zhou, Kui Wu, Fei Liu
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 💻 Internships
+# 💬 Service
 
-- *2024.03 — Now*, [Meituan Inc.](https://www.meituan.com/en-US/about-us), China.
-  - Position: Research Intern (Full-time, Onsite, Paid)
-  - Duty: Conducted research and testing on Meituan's in-house large-scale models, primarily focusing on enhancing the code expert model's capabilities in code repository-level completion and repair. Explored the application of large models in the field of software engineering, including their abilities in handling long texts and code planning and testing.
-- *2022.10 — 2023.05*, [Shenzhen Intelligent Strong](http://www.ai-strong.com/), Shenzhen, China.
-  - Position: Research Intern (Full-time, Onsite, Paid)
-  - Duty: Conducted a financial Named Entity Recognition project from dataset construction to model optimization and deployment, achieving a 10.09% increase in F1.
+- **Teaching Assistant**: Algorithm Training Team for ACM-ICPC, School of Computer Science, Xiangtan University.
+- **Reviewer** :CIKM 2024, ICONIP 2024
